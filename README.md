@@ -2,7 +2,7 @@
 
 A simple command-line tool to fetch and display a GitHub user's recent activity.
 
-https://github.com/yeasinx/user-activity-cli
+https://roadmap.sh/projects/github-user-activity
 
 ## Usage
 
